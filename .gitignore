@@ -1,4 +1,1 @@
-images/
-codeBlock/
-dataType/
-myHints/
+echo "images" >> .gitignore 
